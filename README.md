@@ -1,7 +1,9 @@
 # Cyclistic Case study
 
 This case study is my analysis of Cyclistic capstone project from [the Google Data Analytics Professional Course](https://www.coursera.org/professional-certificates/google-data-analytics) using the member data in 2021. This capstone project includes:
-* data cleaning/processing/analysis in Rstudio and Python 3.7
+* data cleaning/processing/analysis in Rstudio and Python 3.7,
+* Machine Learning model of classification of memebership type in Python 3.7,
+* visualization of the results in Tableau.
  
  
  
