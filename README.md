@@ -10,7 +10,7 @@ This case study is my analysis of Cyclistic capstone project from [the Google Da
  * `started_at` and `ended_at`: the start and end time of this ride.
  * `member_casual`: the type of customer. `member` are those have annual memberships, while `casual` do not hold memberships.
  
- Note that `start_station` (`start_station_id`) and `end_station` (`end_station_id`) are not considered in this case study. But they could contain important reasons for customers choosing to be members, mostly geographical reasons.
+ Note that `start_station` (`start_station_id`) and `end_station` (`end_station_id`) are not considered in this case study. But they could contain important reasons for customers choosing to be members, with mostly geographical reasons (e.g.  customers live near stations far away from other transportations may choose to join memberships).
  
  
  
