@@ -1,20 +1,17 @@
 # Cyclistic Case study
 
-This case study is my analysis of Cyclistic capstone project from [the Google Data Analytics Professional Course](https://www.coursera.org/professional-certificates/google-data-analytics) using the member data in 2021. This capstone project includes:
+This case study is my analysis of the Cyclistic capstone project from [the Google Data Analytics Professional Course](https://www.coursera.org/professional-certificates/google-data-analytics) using the member data in 2021. This capstone project includes:
 * data cleaning/processing/analysis in Rstudio and Python 3.7,
-* Machine Learning model of classification of memebership type in Python 3.7,
-* visualization of the results in Tableau.
+* Machine Learning models of classification of memebership type in Python 3.7,
+* visualizations of the results in Tableau.
  
- The target of this case study is to find a strategy to help Cyclistic, a bike share company based in Chicago, to maximize the number of annual memberships, using the historical data from the riders in 2021. The data contains the following information of each ride:
- * `rideable_type`: the type of bike used in this ride. There are three type of bikes: `electric`, `classical` and `docked` bike.
+The target of this case study is to find a strategy to help Cyclistic, a bike share company based in Chicago, to maximize the number of annual memberships, using the historical data from the riders in 2021. The data contains the following information of each ride:
+ * `rideable_type`: the type of bike used in this ride. There are three type of bikes: `electric`, `classical` and `docked`.
  * `started_at` and `ended_at`: the start and end time of this ride.
- * `member_casual`: the type of customer. `member` are those have annual memberships, while `casual` do not hold memberships.
+ * `member_casual`: the type of customer. `member` represents those have annual memberships, while `casual` represents customers do not hold memberships.
  
- Note that `start_station` (`start_station_id`) and `end_station` (`end_station_id`) are not considered in this case study. But they could contain important reasons for customers choosing to be members, with mostly geographical reasons (e.g.  customers live near stations far away from other transportations may choose to join memberships).
- 
- 
- 
- 
+Note that `start_station` (`start_station_id`) and `end_station` (`end_station_id`) are not considered in this case study. But they could contain important reasons for customers choosing to be members, with mostly geographical reasons (e.g. customers live near stations far away from other transportations may choose to join memberships).
+
 ## Visualization
 <div class='tableauPlaceholder' id='viz1667584276025' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CasestudyofCyclisticbike-share&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CasestudyofCyclisticbike-share&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CasestudyofCyclisticbike-share&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /></object></div>               
 
