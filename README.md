@@ -5,7 +5,7 @@ This case study is my analysis of the Cyclistic capstone project from [the Googl
 * Machine Learning models of classification of memebership type in Python 3.7,
 * visualizations of the results in Tableau.
  
-The target of this case study is to find a strategy to help Cyclistic, a bike share company based in Chicago, to maximize the number of annual memberships, using the historical data from the riders in 2021. The data contains the following information of each ride:
+The target of this case study is to find a strategy to help Cyclistic, a bike share company based in Chicago, to maximize the number of annual memberships and increase their profit, using the historical data from the riders in 2021. The data contains the following information of each ride:
  * `rideable_type`: the type of bike used in this ride. There are three type of bikes: `electric`, `classical` and `docked`.
  * `started_at` and `ended_at`: the start and end time of this ride.
  * `member_casual`: the type of customer. `member` represents those have annual memberships, while `casual` represents customers do not hold memberships.
