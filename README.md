@@ -35,6 +35,13 @@ Moreover, to discover the trend of using bikes in 2021 in a monthly view, I aslo
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1667731896067');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1724px';vizElement.style.height='1426px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1724px';vizElement.style.height='1426px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 ## Strategy
-* Offer a special need membership for docked bike. Only causal members use docked bike
-* Offer family membership/weekend-time membership. Causal members seems to use more during weekend.
-* Offer a half-year membership. This is targeted for summer time from May to October, when the usage of bikes greatly increases. This could be also combined with a discount in the other half of the year.
+The behaviour of the customers can be summarized as:
+* Only causal members use docked bike.
+* Causal members seems to use more during weekend, while annual members has daily requirement of using bikes.
+* It is the peak period of usage during summer time from May to October, when the usage of bikes greatly increases. But only half of the customers have membership and they tend to use bikes longer than annual members. 
+
+We could design such a membership strategy to help causal members to choose between and own a membership:
+* Offer a special need membership for docked bike. 
+* Offer family membership/weekend-time membership.
+* Offer a half-year membership. (This is targeted for summer time from May to October). 
+* This could be also combined with a discount in the other half of the year.
