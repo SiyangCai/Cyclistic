@@ -40,7 +40,7 @@ The behaviour of the customers can be summarized as following:
 * Causal members seems to use more during weekend, while annual members has daily requirement of using bikes.
 * It is the peak period of usage during summer time from May to October, when the usage of bikes greatly increases. But only half of the customers have membership and casual customers tend to use bikes longer than annual members. 
 
-We could design such a membership strategy to help causal members to choose between:
+We could design such a membership strategy to help causal members to choose their best fit:
 * Offer a special need membership for docked bike. 
 * Offer family membership/weekend-time membership.
 * Offer a half-year membership. (This is targeted for summer time from May to October). 
