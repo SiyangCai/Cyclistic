@@ -1,8 +1,7 @@
 # Cyclistic Case study
 
 This case study is my analysis of the Cyclistic capstone project from [the Google Data Analytics Professional Course](https://www.coursera.org/professional-certificates/google-data-analytics) using the member data in 2021. This capstone project includes:
-* data cleaning/processing/analysis in Rstudio and Python 3.7,
-* Machine Learning models of classification of memebership type in Python 3.7,
+* data cleaning/processing/analysis in Rstudio and Python 3.9,
 * visualizations of the results in Tableau.
  
 The target of this case study is to find a strategy to help Cyclistic, a bike share company based in Chicago, to maximize the number of annual memberships and increase their profit, using the historical data from the riders in 2021. The data contains the following information of each ride:
